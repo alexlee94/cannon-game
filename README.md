@@ -18,11 +18,11 @@
 ## 🛠️ Tech Stack
 
 | Technology       | Description                          |
-|------------------|--------------------------------------|
-| **Java**         | Core programming language            |
-| **Android SDK**  | Native Android development tools     |
+|------------------|------------------------------------|
+| **Java**         | Core programming language          |
+| **Android SDK**  | Native Android development tools   |
 | **SurfaceView**  | Efficient rendering of game elements |
-| **Canvas API**   | 2D drawing and animation             |
+| **Canvas API**   | 2D drawing and animation           |
 | **Android Studio** | Development environment           |
 
 ---
@@ -52,12 +52,6 @@
 - Demonstration of native Android game development with Java  
 - Portfolio project for front-end/mobile development roles  
 - Educational tool for learning game loop and rendering concepts  
-
----
-
-## 📄 License
-
-This project is licensed under the [MIT License](LICENSE).
 
 ---
 
