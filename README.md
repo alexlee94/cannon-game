@@ -1,6 +1,6 @@
-# 🎯 CannonGame
+# 🎯 Cannon Game
 
-**CannonGame** is a physics-based shooting game developed using **Java** and the **Android SDK**. It features custom rendering, real-time animations, and responsive touch controls. Designed for Android devices, this project demonstrates essential principles of native mobile game development, including game loop architecture, object-oriented design, and 2D graphics rendering.
+**Cannon Game** is a physics-based shooting game developed using **Java** and the **Android SDK**. It features custom rendering, real-time animations, and responsive touch controls. Designed for Android devices, this project demonstrates essential principles of native mobile game development, including game loop architecture, object-oriented design, and 2D graphics rendering.
 
 ---
 
